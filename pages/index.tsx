@@ -6,7 +6,7 @@ import ProfPhoto from '../public/ProfessionalPhoto.jpg';
 import design from '../public/React.jpg'
 import code from '../public/code.png';
 import consulting from '../public/consulting.png';
-import web1 from '../public/web1.png'
+import web1 from '../public/web1.png';
 import web2 from '../public/web2.png'
 import web3 from '../public/web3.png'
 import web4 from '../public/web4.png'
